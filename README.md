@@ -1,4 +1,4 @@
-# Lista de Exercícios 1 - Phyton
+# Lista de Exercícios 1 - Phyton Express
 
 Este repositório contém a entrega da primeira lista de exercícios práticos da disciplina **Introdução a Ciência de Dados**.
 
