@@ -6,7 +6,7 @@ O objetivo desse trabalho é praticar os conceitos iniciais de programação em 
 
 ## Arquivos do Projeto
 
-* **`Cópia_de_ListaExercicios_1_PythonExpress.ipynb`**: Notebook Jupyter contendo a resolução de 12 exercícios práticos em Python. Os algoritimos resolvidos incluem:
+* **`ListaExercicios_1_PythonExpress.ipynb`**: Notebook Jupyter contendo a resolução de 12 exercícios práticos em Python. Os algoritimos resolvidos incluem:
 * Cálculos matemáticos básicos (soma, médias, produtos).
 * Conversão de unidades de medida (metros para centímetros).
 * Cálculos geométricos (área de círculo e quadrado).
